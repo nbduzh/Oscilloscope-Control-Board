@@ -1,0 +1,27 @@
+[History]
+1=#P0#=mb	#P1#=FindTheHid	#P2#=HID_Test_Application/USBCommunication/FindTheHid	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20180814113822	#P7#=0	#P8#=16	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=HID_Test_Application/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180814113646	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=DataProcess_Inrush	#P2#=HID_Test_Application/Common/DataProcess_Inrush	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160528115525	#P7#=-2147483640	#P8#=110	.
+4=#P0#=mb	#P1#=SetTekVisa_Mean	#P2#=HID_Test_Application/Common/SetTekVisa_Mean	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160528114235	#P7#=0	#P8#=3	.
+5=#P0#=mb	#P1#=SetTekVisa_Inrush	#P2#=HID_Test_Application/Common/SetTekVisa_Inrush	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160528113434	#P7#=-2147483640	#P8#=9	.
+6=#P0#=mb	#P1#=cmdCommand1_Click	#P2#=HID_Test_Application/Timing/cmdCommand1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160523201140	#P7#=0	#P8#=16	.
+7=#P0#=mb	#P1#=cmdTiming_Click	#P2#=HID_Test_Application/Start/cmdTiming_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160523201118	#P7#=0	#P8#=5	.
+8=#P0#=mb	#P1#=FindOscilloscope	#P2#=HID_Test_Application/Common/FindOscilloscope	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160509152521	#P7#=0	#P8#=6	.
+9=#P0#=mb	#P1#=PrintLog	#P2#=HID_Test_Application/Common/PrintLog	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160509143139	#P7#=-2147483640	#P8#=2	.
+10=#P0#=mb	#P1#=Form_Unload	#P2#=HID_Test_Application/Timing/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160502170438	#P7#=0	#P8#=3	.
+11=#P0#=mb	#P1#=UI_Init	#P2#=HID_Test_Application/Common/UI_Init	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160502163016	#P7#=0	#P8#=10	.
+12=#P0#=mb	#P1#=DataProcess_Mean	#P2#=HID_Test_Application/Common/DataProcess_Mean	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160502111033	#P7#=0	#P8#=72	.
+13=#P0#=mb	#P1#=File_Init	#P2#=HID_Test_Application/Common/File_Init	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160502110901	#P7#=0	#P8#=4	.
+14=#P0#=mb	#P1#=WriteReport	#P2#=HID_Test_Application/USBCommunication/WriteReport	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20180814113618	#P7#=0	#P8#=26	.
+15=#P0#=mb	#P1#=Form_KeyPress	#P2#=HID_Test_Application/Timing/Form_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160502105719	#P7#=0	#P8#=1	.
+16=#P0#=mb	#P1#=Check_DataOk	#P2#=HID_Test_Application/Common/Check_DataOk	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160428113540	#P7#=0	#P8#=3	.
+17=#P0#=mb	#P1#=Check_Number	#P2#=HID_Test_Application/Common/Check_Number	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160425172815	#P7#=0	#P8#=16	.
+18=#P0#=mb	#P1#=txtT2_Change	#P2#=HID_Test_Application/Timing/txtT2_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160425172733	#P7#=0	#P8#=1	.
+19=#P0#=mb	#P1#=AutoMeasure	#P2#=HID_Test_Application/Common/AutoMeasure	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160425163122	#P7#=0	#P8#=122	.
+20=#P0#=mb	#P1#=ExitMeasure	#P2#=HID_Test_Application/Common/ExitMeasure	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141001101319	#P7#=0	#P8#=9	.
+21=#P0#=mb	#P1#=FindPG5	#P2#=HID_Test_Application/Common/FindPG5	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141001101304	#P7#=0	#P8#=18	.
+22=#P0#=mb	#P1#=DetectDevice	#P2#=HID_Test_Application/Common/DetectDevice	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141001101148	#P7#=0	#P8#=29	.
+23=#P0#=mb	#P1#=DetectHID	#P2#=HID_Test_Application/Common/DetectHID	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141001101137	#P7#=0	#P8#=4	.
+24=#P0#=mb	#P1#=ReadINI	#P2#=HID_Test_Application/Common/ReadINI	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140930150815	#P7#=-2147483640	#P8#=0	.
+25=#P0#=mb	#P1#=ReadOtherINI	#P2#=HID_Test_Application/Common/ReadOtherINI	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140930150702	#P7#=-2147483640	#P8#=1	.
+26=#P0#=mb	#P1#=WriteOtherINI	#P2#=HID_Test_Application/Common/WriteOtherINI	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140930145524	#P7#=0	#P8#=3	.

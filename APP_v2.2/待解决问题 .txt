@@ -1,0 +1,35 @@
+vvvvvvvvvv 1. product id 读写  (修改readini productid)
+
+vvvvvvvvvv 2. 数据导入 excel 
+
+vvvvvvvvvvv 3. Inrush 电压值不正确
+
+VVVVVVVVVVV 4. 增加Sample数量
+
+vvvvvvvvvv 5. 检测各个输入数据的合法性
+
+VVVVVVVVVV 6. 开始量测后。还可按Measure按钮
+
+vvvvvvvvvv 7. UI启动后，再关掉示波器or其他器件，无法识别器件已断开
+
+xxxxxxxxxx 8. 读取示波器的值滞后，数据有时不准确
+
+VVVVVVVVVV 9.ReadOtherINI   error，读不到数据
+
+xxxxxxxxxx 10. m236hge-l30 inrush 490 ~ 450 切换，无法达到470
+
+vvvvvvvvvv 11. 多线程 write to excel error
+
+12. 量测结束 可能 Excel无法结束, UI进程仍在
+
+vvvvvvvvvv 13. black mean 切换到 black inrush时会出现关机又马上开机情况
+
+vvvvvvvvvv 14. ES量测完成显示的sample数和实际不符。
+
+15. Inrush rising time error后重新量测 提示Excel已打开。
+
+xxxxxxxxxx 16. 打开APP时，filelist内容和实际文件不符时出现错误“53”
+
+vvvvvvvvvv 17. Vcc上升时间或下降时间过大时，会超过DAC当前Vcc的阶数
+
+18. 测inrush时中断量测，重新量测后，黑画面的平均电流波形图片会出现重复
