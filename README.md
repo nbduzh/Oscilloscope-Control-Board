@@ -1,4 +1,4 @@
-# Oscilloscope-Control-Board
+# Oscilloscope-Control-Board v2.2
 
 
 History:
